@@ -1,0 +1,61 @@
+---
+title: "Sylvester Worlanyo Amanfu"
+image: "Sylvester.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sylvester-amanfu/"
+  - label: Instagram
+    url: "https://instagram.com/_slyrock"
+  - label: GitHub
+    url: "https://github.com/Slyrock925"
+  - label: Email
+    url: "samanfu1@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## About
+
+I am a physician from Ghana and currently pursuing my Master of Public Health (MPH) at the Johns Hopkins Bloomberg School of Public Health.
+
+My journey began in Ghana, where I worked at Komfo Anokye Teaching Hospital and Ghana Police Hospital. These experiences grounded me in patient care but also revealed the urgent need for systemic solutions in public health.
+
+Before joining Hopkins, I completed graduate coursework at Emory University, where I took formal courses in SAS and introductory R programming. These courses strengthened my skills in data management and analysis, and sparked my passion for applying quantitative methods to public health challenges.
+
+At Johns Hopkins, I serve as a Graduate Teaching Assistant for Introduction to Public Health and am engaged in research through the Johns Hopkins Surgery Center for Outcomes Research (JSCOR) Surgical Faculty–Student Mentoring Program with Dr. Ahmet Kılıç, focusing on cardiovascular surgery outcomes. Beyond my studies, I co-founded the Vicco61Aid Foundation, established in memory of my late father, to advance community health initiatives in Ghana.
+
+## Research Interests 
+
+Vaccine Epidemiology — Uptake, Equity, Safety, and Effectiveness 
+
+Pharmacoepidemiology & drug safety
+
+Clinical trials 
+
+Surgical and cardiovascular outcomes research
+
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+Master of Public Health | Expected May 2026
+
+**Emory University Rollins School of Public Health** | Atlanta, Georgia
+
+15 credits completed towards MPH (Epidemiology) | August 2024- December 2024
+
+**Kwame Nkrumah University School of Medicine and Denstistry** | Kumasi, Ghana
+Bachelor of Medicine, Bachelor of Surgery | July 2018- July 2021
+
+**Kwame Nkrumah University School of Medicine and Denstistry** | Kumasi, Ghana
+Bachelor of Science (Human Biology) | July 2018- July 2021
+
+## Fun Facts 
+I can move my ears!!!
+
+
+## What I Hope to Learn
+
+Sharpen my R programming and statistical modeling skills
+
